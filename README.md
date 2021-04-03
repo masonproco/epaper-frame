@@ -4,7 +4,7 @@ This project was largely inspired by the slow movie frame project [seen here](ht
 This was a gift I made for my fiancé, which rotates through our engagement photos.
 
 ## Specifications
-The following is a lists all of the materials used to make this:
+The following is a list of all the materials used to make this:
 
 * Raspberry Pi Zero
 * GPIO Header
